@@ -29,7 +29,7 @@ Ensure you have **Python 3.10+** and **Node.js** installed on your system.
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/abhishek10-bit/Object-detection-using-yolov8.git
 cd sonic-perigee
 ```
 
