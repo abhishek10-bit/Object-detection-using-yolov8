@@ -1,0 +1,36 @@
+# --- Python / FastAPI ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# YOLOv8 & Project Specific
+yolov8_project/runs/
+yolov8_project/datasets/
+yolov8_project/yolov8n.pt
+yolov8_project/user_dataset/images/
+# Keep the database file if you want to push memory, or ignore it:
+# yolov8_project/user_dataset/database.json
+
+# --- Node / React (Frontend) ---
+node_modules/
+dist/
+dist-ssr/
+*.local
+.eslintcache
+
+# --- OS & Editor ---
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
