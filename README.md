@@ -73,6 +73,14 @@ npm run dev
 
 ---
 
+**use `launch_vision_ai.bat` for easy running**
+```bash
+.\launch_vision_ai.bat
+
+```
+> or simply double click on the `launch_vision_ai.bat` file
+
+
 ## 🧠 How It Works (Under the Hood)
 
 ### The Detection Pipeline
